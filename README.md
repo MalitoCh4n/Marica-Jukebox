@@ -1,4 +1,4 @@
-# Music-bot
+# Marica Jukebox
 
 ## Migrating to v5...
 
